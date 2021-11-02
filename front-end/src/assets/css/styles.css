@@ -31,3 +31,7 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+
+a:link{
+    text-decoration:none;
+}
