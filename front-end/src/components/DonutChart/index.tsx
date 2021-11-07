@@ -29,6 +29,7 @@ const DonutChart = () => {
             show: true
         }
     }
+    
     return (
         <Chart 
             options={{ ...options, labels: chartData.labels}}
