@@ -11,7 +11,8 @@ https://projeto-sds-amirbrito.netlify.app/
 
 ## Tecnologias utilizadas ##
 
-   - Spring
+   - Spring Boot
+   - Maven
    - PostgreSQL
    - React
    - Bootstrap
